@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
   - title: "How it works"
-    url: /how-it-works/
+    url: /how-it-works
+  - title: "Program comparaison"
+    url: /programs/
+  - title: "Create Club Roulez Électrique account"
+    url: /club-roulez-electrique/
   - title: "About"
     url: /about/
