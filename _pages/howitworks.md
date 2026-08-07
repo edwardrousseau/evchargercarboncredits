@@ -4,7 +4,6 @@ permalink: /how-it-works/
 ---
 
 
-# How to Earn Money from Your EV Charger: A Guide to Canada’s Clean Fuel Regulations
 
 In Canada, your electric vehicle (EV) charger is no longer just an appliance—it is a carbon credit generator. Under the federal **Clean Fuel Regulations (CFR)**, every kilowatt-hour (kWh) of electricity you put into a vehicle has value. 
 
