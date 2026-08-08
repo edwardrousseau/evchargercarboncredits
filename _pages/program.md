@@ -46,7 +46,7 @@ The Grizzl-E Club is a manufacturer-led program designed specifically for owners
 
 ### Other programs
 
-Multiple other programs exists: SWTCH, Chargelab, EcoWatt, Wattsapp, Greenmiles and more are created over time. 
+Multiple other programs exists: SWTCH, Chargelab, EcoWatt, Wattsapp, Greenmiles and more are created over time. I chosed only these two for the comparison as one has the highest paying for most provinces and the other is well known. 
 
 
 **Important Note:** You can only register your charger with **one** of these programs. If you register with both, the federal government will flag the duplicate serial number, and you may be banned from receiving credits from either program. You should compare the programs and choose the one that fits your needs. 
