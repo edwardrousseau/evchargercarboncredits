@@ -7,5 +7,5 @@ main:
     url: /club-roulez-electrique/
   -title "Français"
     url: /francais/
-  - title: "About"
-    url: /about/
+  #- title: "About"
+   # url: /about/
