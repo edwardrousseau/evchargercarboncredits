@@ -40,3 +40,4 @@ Log in to the [Club Roulez Électrique Portal](https://roulezelectrique.club/).
 Charge your car and confirm that after a charge, you see it on the website. 
 
 
+**Disclaimer:** I am not affiliated with Roulez Électrique or Club Roulez Électrique. 
