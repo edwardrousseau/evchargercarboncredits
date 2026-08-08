@@ -5,7 +5,7 @@ main:
     url: /programs/
   - title: "Create Club Roulez Électrique account"
     url: /club-roulez-electrique/
-  -title "Français"
+  -title: "Français"
     url: /francais/
   #- title: "About"
    # url: /about/
