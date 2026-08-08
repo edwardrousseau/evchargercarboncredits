@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Carbon credits for EV in Canada"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "You could generate carbon credits as you charge you electric vehicle in Canada! By using a compatible charger, and a platform like Club Roulez Électrique ou Grizzl-E Club, you could get you part of the money from the carbon credits."
   # links:
    # - label: "Website"
     #  icon: "fas fa-fw fa-link"
