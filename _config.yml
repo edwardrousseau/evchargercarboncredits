@@ -87,10 +87,6 @@ footer:
 
 defaults:
   # _posts
-    - scope:
-      path: ""
-    values:
-      author_profile: false
   - scope:
       path: ""
       type: posts
