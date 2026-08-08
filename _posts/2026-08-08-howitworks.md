@@ -1,6 +1,7 @@
 ---
 title: "How to Earn Money from Your EV Charger: A Guide to Canada’s Clean Fuel Regulations"
 permalink: /how-it-works/
+date: 2026-08-08 14:32:00 -0400
 ---
 
 
