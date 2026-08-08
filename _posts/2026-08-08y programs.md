@@ -1,0 +1,53 @@
+---
+title: "Comparison: Grizzl-E Club vs. Club Roulez Électrique"
+permalink: /programs/
+---
+
+
+
+Both Grizzl-E and Roulez Électrique offer programs to get reward as you charge your car, but their eligibility and payout structures differ.
+
+---
+
+### 1. Club Roulez Électrique
+Roulez Électrique is a Quebec-based EV pioneer. Their "Club" is a platform-agnostic aggregator program that is inclusive of different charger brands.
+
+*   **Hardware Compatibility:** Broad. Unlike Grizzl-E, this program accepts a variety of Tesla chargers and **OCPP-compliant smart chargers**. This includes brands like **Autel, Elmec (EVDuty), Leviton**, and others.
+*   **Geographic Reach:** All of Canada, with different rates for each province (depending on how clean is the electricity in each province). 
+*   **The Payout:** Up to 13 points/kWh for most chargers in many provinces, which should be converted to 1$/100points once per year. 
+*   **Ease of Use:** Moderate. Since they support multiple brands, the initial setup involves linking your charger’s specific portal to the Roulez Électrique platform.
+*   **Best For:** Owners of supported smart chargers, or who can get one at a low cost and want the maximal payout.
+
+---
+
+### 2. Grizzl-E Club (by United Chargers)
+The Grizzl-E Club is a manufacturer-led program designed specifically for owners of Grizzl-E hardware.
+
+*   **Hardware Compatibility:** Restricted. You must own a **Grizzl-E Smart** charger. It does not work with Grizzl-E Classic (dumb) chargers or other brands like Tesla or EVDuty. The distribute "free" chargers under conditions (refer to their website).
+*   **Geographic Reach:** National. Available to EV owners across all Canadian provinces.
+*   **The Payout:** Start at 0.03$/kWh and increase up to 0.10$/kWh as you usage increase. 
+*   **Ease of Use:** High for Grizzl-E owners. Because the manufacturer controls the hardware and the software, the data syncing is seamless once you connect your charger to the Grizzl-E Connect app.
+*   **Best For:** Owners of Grizzl-E Smart chargers who want a "set-it-and-forget-it" experience directly with the manufacturer and people who need a charger and want a "free" one (read all conditions of the program).
+
+---
+
+### Comparison Summary
+
+| Feature | Grizzl-E Club | Club Roulez Électrique |
+| :--- | :--- | :--- |
+| **Primary Requirement** | Must own a Grizzl-E Smart | Any compatible Smart Charger |
+| **Provider** | United Chargers (Manufacturer) | Roulez Électrique (Service/Retailer) |
+| **Main Market** | All of Canada | All of Canada |
+| **Payout Style** | Increase over time | Rate per province |
+| **App Interface** | Grizzl-E Connect | Roulez Électrique Portal |
+| **Language Support** | English & French | English & French |
+
+---
+
+### Other programs
+
+Multiple other programs exists: SWTCH, Chargelab, EcoWatt, Wattsapp, Greenmiles and more are created over time. I chosed only these two for the comparison as one has the highest paying for most provinces and the other is well known. 
+
+
+**Important Note:** You can only register your charger with **one** of these programs. If you register with both, the federal government will flag the duplicate serial number, and you may be banned from receiving credits from either program. You should compare the programs and choose the one that fits your needs. 
+**Disclaimer:** The programs are in rapid evolution. Refer to their websites to get the current information. 
