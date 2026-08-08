@@ -1,6 +1,6 @@
 ---
 title: "Comparison: Grizzl-E Club vs. Club Roulez Électrique"
-permalink: /program/
+permalink: /programs/
 ---
 
 
